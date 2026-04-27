@@ -1,4 +1,4 @@
-number-theory-notebook/
+Number_Theory_Concepts_Proofs
 ## 📘 Topics Covered
 
 This repository includes core topics of Number Theory:
